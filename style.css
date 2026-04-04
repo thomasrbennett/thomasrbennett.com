@@ -6,7 +6,7 @@
 }
 
 html {
-  font-size: 16px;
+  font-size: 17.6px;
 }
 
 body {
@@ -14,14 +14,14 @@ body {
   color: #1a1a1a;
   background: #fff;
   line-height: 1.7;
-  max-width: 860px;
+  max-width: 1032px;
   margin: 0 auto;
-  padding: 0 32px;
+  padding: 0 38px;
 }
 
 /* Header */
 header {
-  padding: 48px 0 56px;
+  padding: 58px 0 67px;
   border-bottom: 1px solid #e0e0e0;
 }
 
@@ -34,14 +34,14 @@ header {
 
 /* Sections shared */
 section {
-  padding: 64px 0;
+  padding: 77px 0;
   border-bottom: 1px solid #e0e0e0;
 }
 
 /* Bio section */
 .bio-section {
   display: flex;
-  gap: 56px;
+  gap: 67px;
   align-items: flex-start;
 }
 
@@ -72,7 +72,7 @@ section {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: #999;
-  margin-bottom: 32px;
+  margin-bottom: 38px;
 }
 
 .article-list {
@@ -91,8 +91,8 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  gap: 24px;
-  padding: 18px 0;
+  gap: 29px;
+  padding: 22px 0;
   text-decoration: none;
   color: inherit;
   transition: opacity 0.2s ease;
@@ -115,7 +115,7 @@ section {
 
 /* Footer */
 footer {
-  padding: 40px 0;
+  padding: 48px 0;
   font-size: 0.8rem;
   color: #999;
 }
